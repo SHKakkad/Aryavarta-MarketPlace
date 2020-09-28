@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "440971335586",
+    "firebase_url": "https://my-market-place-c0587.firebaseio.com",
+    "project_id": "my-market-place-c0587",
+    "storage_bucket": "my-market-place-c0587.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440971335586:android:9dc1ed3e949282eba604fb",
+        "android_client_info": {
+          "package_name": "com.shkakkad.marketplace_aryavarta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440971335586-4mjubc5ul4r92cj562fh7cflva42fj7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shkakkad.marketplace_aryavarta",
+            "certificate_hash": "27b81d18d38509ac0105e5086fc302f7bddc23af"
+          }
+        },
+        {
+          "client_id": "440971335586-43ujrqr112og6vellaksesll4525egvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjl-9QHj3NaS7wg9R2cNqw5LEHFoZZRzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440971335586-43ujrqr112og6vellaksesll4525egvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
